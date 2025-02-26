@@ -1,0 +1,33 @@
+.site{
+	height: 700px;
+	width: 900px;
+	background-color: green;
+}
+.cabeçalho{
+	height: 80px;
+	background-color: blue;
+}
+.corpo{
+	height:600px;
+	background-color: red;
+}
+.artigos{
+	background-color: pink;
+	height: 60px;
+}.artigos p{
+
+}
+.serviços{
+	height: 50px;
+	background-color: purple;
+}
+.sidebar{
+	background-color: orange;
+	height: 520px;
+	width: 300px;
+	float: right;
+}
+.rodapé{
+	height: 70px;
+	background-color: black;
+}
